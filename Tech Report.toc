@@ -1,0 +1,13 @@
+\contentsline {chapter}{\numberline {1}Introduction}{2}
+\contentsline {chapter}{\numberline {2}MrsP}{3}
+\contentsline {chapter}{\numberline {3}Litmus\textsuperscript {RT}}{5}
+\contentsline {chapter}{\numberline {4}MrsP -- Infrastructure}{7}
+\contentsline {section}{\numberline {4.1}FIFO spin locks}{7}
+\contentsline {section}{\numberline {4.2}Resource Ceilings}{8}
+\contentsline {chapter}{\numberline {5}MrsP -- Migration-based Helping Mechanisms}{9}
+\contentsline {section}{\numberline {5.1}Generic Linux Migration Approach (MrsP-Generic)}{9}
+\contentsline {section}{\numberline {5.2}Task Swapping (MrsP-Swapping)}{11}
+\contentsline {section}{\numberline {5.3}Preemption Queue With Non-Preemptive Sections (MrsP-NP)}{12}
+\contentsline {section}{\numberline {5.4}Summary}{14}
+\contentsline {chapter}{\numberline {6}MrsP -- Outside-Kernel}{15}
+\contentsline {chapter}{\numberline {7}Conclusion}{17}
